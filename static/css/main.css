@@ -102,5 +102,20 @@ body {
     object-fit: cover;
   }
 
+  .row{
+    display: flex;
+    padding-top: 0px;
+  }
+  .subimage1, .subimage2,.subimage3, img.cardimages{
+    padding: 0px;
+    object-fit: cover;
+    width: 466.6px;
+    height: 400px;
+  }
+  
+  div.lefty{
+    padding-left: 0px;
+  }
+
   
   
